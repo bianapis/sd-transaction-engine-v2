@@ -1,0 +1,33 @@
+{
+  "transactionScheduleFinancialTransaction" : {
+    "transactionScheduleFinancialTransactionAmount" : "USD 250",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "773304",
+    "transactionScheduleFinancialTransactionProductInstanceReference" : "796559",
+    "transactionScheduleFinancialTransactionType" : "transactionScheduleFinancialTransactionType",
+    "documentDirectoryEntryInstanceReference" : "763744",
+    "transactionScheduleFinancialTransactionDescription" : "transactionScheduleFinancialTransactionDescription"
+  },
+  "transactionScheduleFulfillmentArrangementUpdateActionTaskReference" : "TSFAUATR765595",
+  "transactionScheduleFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "transactionScheduleFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "778623",
+    "transactionScheduleFulfillmentSchedule" : "transactionScheduleFulfillmentSchedule",
+    "productServiceType" : "productServiceType",
+    "transactionScheduleWorkTaskRecord" : {
+      "transactionScheduleWorkTaskResult" : "transactionScheduleWorkTaskResult",
+      "transactionScheduleWorkTaskWorkProducts" : "transactionScheduleWorkTaskWorkProducts",
+      "transactionScheduleWorkTaskType" : "transactionScheduleWorkTaskType",
+      "transactionScheduleTaskFeeTransaction" : {
+        "transactionScheduleWorkTaskFeeTransactionType" : "transactionScheduleWorkTaskFeeTransactionType",
+        "transactionScheduleWorkTaskFeeTransactionDescription" : "transactionScheduleWorkTaskFeeTransactionDescription",
+        "transactionScheduleWorkTaskFeeTransactionCharge" : "USD 250"
+      },
+      "transactionScheduleWorkTaskDescription" : "transactionScheduleWorkTaskDescription",
+      "documentDirectoryEntryInstanceReference" : "744749"
+    }
+  },
+  "updateResponseRecord" : {}
+}

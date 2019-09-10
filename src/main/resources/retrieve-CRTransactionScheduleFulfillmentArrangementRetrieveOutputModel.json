@@ -1,0 +1,43 @@
+{
+  "transactionScheduleFinancialTransaction" : {
+    "transactionScheduleFinancialTransactionAmount" : "USD 250",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "729509",
+    "transactionScheduleFinancialTransactionProductInstanceReference" : "714724",
+    "transactionScheduleFinancialTransactionType" : "transactionScheduleFinancialTransactionType",
+    "documentDirectoryEntryInstanceReference" : "794174",
+    "transactionScheduleFinancialTransactionDescription" : "transactionScheduleFinancialTransactionDescription"
+  },
+  "transactionScheduleFulfillmentArrangementInstanceAnalysis" : {
+    "transactionScheduleFulfillmentArrangementInstanceAnalysisData" : "transactionScheduleFulfillmentArrangementInstanceAnalysisData",
+    "transactionScheduleFulfillmentArrangementInstanceAnalysisReportType" : "transactionScheduleFulfillmentArrangementInstanceAnalysisReportType",
+    "transactionScheduleFulfillmentArrangementInstanceAnalysisReport" : {}
+  },
+  "transactionScheduleFulfillmentArrangementRetrieveActionTaskReference" : "TSFARATR750335",
+  "transactionScheduleFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "713950",
+    "transactionScheduleFulfillmentSchedule" : "transactionScheduleFulfillmentSchedule",
+    "productServiceType" : "productServiceType",
+    "transactionScheduleWorkTaskRecord" : {
+      "transactionScheduleWorkTaskResult" : "transactionScheduleWorkTaskResult",
+      "transactionScheduleWorkTaskWorkProducts" : "transactionScheduleWorkTaskWorkProducts",
+      "transactionScheduleWorkTaskType" : "transactionScheduleWorkTaskType",
+      "transactionScheduleTaskFeeTransaction" : {
+        "transactionScheduleWorkTaskFeeTransactionType" : "transactionScheduleWorkTaskFeeTransactionType",
+        "transactionScheduleWorkTaskFeeTransactionDescription" : "transactionScheduleWorkTaskFeeTransactionDescription",
+        "transactionScheduleWorkTaskFeeTransactionCharge" : "USD 250"
+      },
+      "transactionScheduleWorkTaskDescription" : "transactionScheduleWorkTaskDescription",
+      "documentDirectoryEntryInstanceReference" : "795352"
+    }
+  },
+  "transactionScheduleFulfillmentArrangementRetrieveActionResponse" : "transactionScheduleFulfillmentArrangementRetrieveActionResponse",
+  "transactionScheduleFulfillmentArrangementInstanceReportRecord" : {
+    "transactionScheduleFulfillmentArrangementInstanceReportData" : "transactionScheduleFulfillmentArrangementInstanceReportData",
+    "transactionScheduleFulfillmentArrangementInstanceReportType" : "transactionScheduleFulfillmentArrangementInstanceReportType",
+    "transactionScheduleFulfillmentArrangementInstanceReport" : {}
+  },
+  "transactionScheduleFulfillmentArrangementRetrieveActionTaskRecord" : {}
+}
